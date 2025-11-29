@@ -95,14 +95,14 @@ Development of an agent which will understand the human language based on NLP. T
 2. Industry Experience Team Project Student Choice Award Winner 2025
 
 ## Certifications
-1. IELTS, Overall Score 7.0 | British Council Cambridge (_Nov 2023_)
-2. AI for Healthcare Program | National University of Singapore (_Oct 2022_)
-3. Introduction to Git and GitHub | Coursera: Google (_Nov 2020_)
-4. Using Python to Interact with the Operating System | Coursera: Google (_Nov 2020_)
-5. International Competitions and Assessments for schools | UNSW Global Australia (_2016_)
+- IELTS, Overall Score 7.0 | British Council Cambridge (_Nov 2023_)
+- AI for Healthcare Program | National University of Singapore (_Oct 2022_)
+- Introduction to Git and GitHub | Coursera: Google (_Nov 2020_)
+- Using Python to Interact with the Operating System | Coursera: Google (_Nov 2020_)
+- International Competitions and Assessments for schools | UNSW Global Australia (_2016_)
 
 ## Extracurricular Activities
-- Inter-University Datathon 2025 | University of Melbourne, Monash University, etc.
+- Inter-University Datathon 2025 | University of Melbourne
 - K Engineering Project Day 2022 | KMITL
 - SMID Health Hackathon 2021 | Innohealth Suandok Medical Innovation District
 - Bitkub Tech Challenge | Bitkub Capital Group Holdings Co., Ltd.
